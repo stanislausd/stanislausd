@@ -1,4 +1,4 @@
-‎<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Stanislaus%20Angelo%Didio%Rahmat&fontSize=50&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Developer&descAlignY=61&descSize=20" width="100%" />
+‎<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Stanislaus%20Angelo%20Didio%20Rahmat&fontSize=50&fontAlignY=38&desc=Information%20Systems%20Student%20%7C%20Developer&descAlignY=61&descSize=20" width="100%" />
 
 ## 👨‍💻 About Me
 Saya adalah mahasiswa Sistem Informasi yang memiliki ketertarikan besar dalam pengembangan perangkat lunak, perancangan *database*, dan *game modding*. Saya sangat suka mengeksplorasi logika pemrograman dan merancang solusi digital yang efisien.
