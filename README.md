@@ -27,10 +27,3 @@ Saya adalah mahasiswa Sistem Informasi yang memiliki ketertarikan besar dalam pe
     <img src="https://img.shields.io/badge/stanislausd-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
-## 📊 My GitHub Statistics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=stanislausd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stanislausd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
