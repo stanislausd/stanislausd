@@ -4,7 +4,7 @@
   <br><br><br>
 
   <a href="https://github.com/stanislausd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=36BCF7&center=false&vCenter=true&width=550&height=60&lines=I'm+Stanislaus+Angelo+Didio+Rahmat;Information+Systems+%7C+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=36BCF7&center=false&vCenter=true&width=550&height=60&lines=I'm+Stanislaus+Angelo+Didio+Rahmat;Information+Systems+%7C+Developer" alt="Typing SVG" width="100%" />
   </a>
 </div>
 
