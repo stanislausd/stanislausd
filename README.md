@@ -1,11 +1,11 @@
-<table border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
   <tr>
-    <td valign="middle" width="60%">
+    <td valign="middle">
       <a href="https://github.com/stanislausd">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=36BCF7&center=false&vCenter=true&width=400&height=60&lines=Information+Systems+%7C+Developer" alt="Typing SVG" />
       </a>
     </td>
-    <td valign="middle" width="40%" align="right">
+    <td valign="middle" align="right">
       <img src="https://i.ibb.co.com/F4SjvT7t/Picsart-26-09-15-10-52-24-580.png" width="130" alt="Character" />
     </td>
   </tr>
