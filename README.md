@@ -1,18 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=200&section=header&text=Stanislaus%20Angelo&fontSize=40&fontColor=fff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=200&section=header&text=Stanislaus%20Angelo%20Didio%20Rahmat&fontSize=32&fontColor=fff&animation=fadeIn" width="100%" />
 
 <p align="center">
   <a href="https://github.com/stanislausd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=2000&color=36BCF7&center=true&vCenter=true&width=850&height=60&lines=Information+Systems+Student;Software+%26+Database+Developer;Game+Modding+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=2000&color=36BCF7&center=true&vCenter=true&width=850&height=60&lines=Stanislaus+Angelo+Didio+Rahmat;Mahasiswa+Sistem+Informasi+%7C+Developer" alt="Typing SVG" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=stanislausd&color=36BCF7&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/stanislausd?label=Followers&style=flat&color=36BCF7" alt="Followers" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,cs,mysql,git,github" />
 </p>
 
 ## 👨‍💻 About Me
