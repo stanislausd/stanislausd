@@ -11,8 +11,6 @@
   </tr>
 </table>
 
----
-
 
 ## 👨‍💻 About Me
 Saya adalah mahasiswa Sistem Informasi yang memiliki ketertarikan besar dalam pengembangan perangkat lunak, perancangan *database*, dan *game modding*. Saya sangat suka mengeksplorasi logika pemrograman dan merancang solusi digital yang efisien.
