@@ -1,10 +1,22 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8A2BE2&height=200&section=header&text=Stanislaus%20Angelo%20Didio%20Rahmat&fontSize=32&fontColor=fff&animation=fadeIn" width="100%" />
+<div>
+  <!-- 1. Gambar karakter ditaruh lebih dulu dengan align="right" -->
+  <img src="https://i.ibb.co.com/F4SjvT7t/Picsart-26-09-15-10-52-24-580.png" align="right" width="180" alt="Character" />
+  
+  <!-- 2. Memberikan sedikit jarak agar teks turun sejajar dengan badan karakter -->
+  <br><br><br>
 
-<p align="center">
+  <!-- 3. Teks Typing SVG di sisi kiri -->
   <a href="https://github.com/stanislausd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=2000&color=36BCF7&center=true&vCenter=true&width=850&height=60&lines=Stanislaus+Angelo+Didio+Rahmat;Mahasiswa+Sistem+Informasi+%7C+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=36BCF7&center=false&vCenter=true&width=400&height=60&lines=Information+Systems+%7C+Developer" alt="Typing SVG" />
   </a>
-</p>
+</div>
+
+<!-- 4. BERHENTIKAN EFEK MENGAMBANG (Sangat Penting!) -->
+<br clear="all">
+
+<!-- 5. Konten selanjutnya (Garis batas & About Me) -->
+---
+
 
 ## 👨‍💻 About Me
 Saya adalah mahasiswa Sistem Informasi yang memiliki ketertarikan besar dalam pengembangan perangkat lunak, perancangan *database*, dan *game modding*. Saya sangat suka mengeksplorasi logika pemrograman dan merancang solusi digital yang efisien.
