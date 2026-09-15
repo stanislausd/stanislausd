@@ -1,20 +1,16 @@
-<div>
-  <!-- 1. Gambar karakter ditaruh lebih dulu dengan align="right" -->
-  <img src="https://i.ibb.co.com/F4SjvT7t/Picsart-26-09-15-10-52-24-580.png" align="right" width="180" alt="Character" />
-  
-  <!-- 2. Memberikan sedikit jarak agar teks turun sejajar dengan badan karakter -->
-  <br><br><br>
+<table>
+  <tr>
+    <td valign="middle" width="60%">
+      <a href="https://github.com/stanislausd">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=36BCF7&center=false&vCenter=true&width=400&height=60&lines=Information+Systems+%7C+Developer" alt="Typing SVG" />
+      </a>
+    </td>
+    <td valign="middle" width="40%" align="right">
+      <img src="https://i.ibb.co.com/F4SjvT7t/Picsart-26-09-15-10-52-24-580.png" width="130" alt="Character" />
+    </td>
+  </tr>
+</table>
 
-  <!-- 3. Teks Typing SVG di sisi kiri -->
-  <a href="https://github.com/stanislausd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=36BCF7&center=false&vCenter=true&width=400&height=60&lines=Information+Systems+%7C+Developer" alt="Typing SVG" />
-  </a>
-</div>
-
-<!-- 4. BERHENTIKAN EFEK MENGAMBANG (Sangat Penting!) -->
-<br clear="all">
-
-<!-- 5. Konten selanjutnya (Garis batas & About Me) -->
 ---
 
 
