@@ -1,24 +1,15 @@
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td valign="middle" width="65%">
-
+    <td valign="middle" width="60%">
       <a href="https://github.com/stanislausd">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=36BCF7&center=false&vCenter=true&width=500&height=50&lines=I'm+Stanislaus+Angelo+Didio+Rahmat;Information+Systems+%7C+Developer" alt="Typing SVG">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=2000&color=36BCF7&center=false&vCenter=true&width=400&height=60&lines=Information+Systems+%7C+Developer" alt="Typing SVG" />
       </a>
-
     </td>
-
-    <td valign="middle" align="center" width="35%">
-      <img
-        src="https://i.ibb.co.com/F4SjvT7t/Picsart-26-09-15-10-52-24-580.png"
-        width="145"
-        alt="Character"
-      />
+    <td valign="middle" width="40%" align="right">
+      <img src="https://i.ibb.co.com/F4SjvT7t/Picsart-26-09-15-10-52-24-580.png" width="130" alt="Character" />
     </td>
   </tr>
 </table>
-
-<br>
 
 ---
 
