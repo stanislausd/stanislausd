@@ -13,11 +13,11 @@
 
 
 ## 👨‍💻 About Me
-Saya adalah mahasiswa Sistem Informasi yang memiliki ketertarikan besar dalam pengembangan perangkat lunak, perancangan *database*, dan *game modding*. Saya sangat suka mengeksplorasi logika pemrograman dan merancang solusi digital yang efisien.
+Bonjour, perkenalkan saya Stanislaus Angelo Didio Rahmat, biasa di panggil Dio, saya adalah mahasiswa Sistem Informasi yang memiliki ketertarikan dalam pengembangan perangkat lunak, perancangan *database*, dan *membuat assets game*.
 
 - 🎓 Saat ini sedang menempuh studi di **Universitas Teknologi Digital Indonesia (UTDI)**.
-- 🌱 Sedang memperdalam **Python, Java, C#, dan SQL**.
-- 🥊 Di luar layar komputer, saya aktif Workout/Fitness dan berlatih Taekwondo dan Boxing.
+- 🌱 Sedang memperdalam **Python, Java, Frontend, dan SQL**.
+- 🥊 Di luar layar komputer, saya aktif Workout/Fitness dan berlatih Martial arts seperti Taekwondo dan Boxing.
 
 <p align="left">
   <a href="mailto:diorahmat0210@gmail.com">
